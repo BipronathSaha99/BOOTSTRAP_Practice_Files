@@ -43,7 +43,7 @@ Lessons.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/BipronathSaha99/BOOTSTRAP_Practice_Files/blob/main/LICENSE)
 
   
 ## Authors
