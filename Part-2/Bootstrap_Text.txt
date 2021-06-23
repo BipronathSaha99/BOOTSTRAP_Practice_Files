@@ -1,0 +1,27 @@
+Bootstrap 4 Text/ Typography
+
+Bootstrap 4 Default Settings:-
+
+Bootstrap 4 uses deafault font-size of 16px and line-height is 1.5 .
+The default font-family is 'Helvetica Neue' , Helvetica, Arial, sans-serif.
+
+In addition, all <p> elements have margin-top:0 and margin-bottom: 1 rem (16px by default). 
+
+<h1>-<h6>
+Bootstrap 4 styles html headings with bolder font-weight and increassed font-size.
+
+Display headings
+Display headings are stands out more than normal headings(larger font-size and lighter font-weight)
+This Display headings has 4 classes {.display-1, .display-2, .display-3, .display-4}
+
+<small>
+In Bootstrap 4 the HTML <small> element is used to create a lighter, secondary text in any heading.
+
+<mark>
+Bootstrap 4 will style the HTML <mark> element with a yellow background color and some padding.
+
+<blockquote>
+Add the .blockquote class to a <blockquote> when quoting blocks of content from another source.
+
+<dl> dl-description list
+

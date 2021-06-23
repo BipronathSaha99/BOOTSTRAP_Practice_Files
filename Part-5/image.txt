@@ -1,0 +1,17 @@
+Bootstrap4 Image Shape:
+
+Rounded Corner Shape:
+The .round class adds rounded corners to an image.
+
+Circle
+The .rounded-circle class shapes the image to a circle.
+
+Thumbnail
+The .img-thumbnail class shapes the image to a thumbnail (bordered).
+
+Aliging Image:
+Float an image to the right with the .float-right class or to the left with .float-left.
+
+Centered Image:
+Center an image by adding the utility classes .mx-auto (margin:auto) and .d-block (display:block) to the image.
+

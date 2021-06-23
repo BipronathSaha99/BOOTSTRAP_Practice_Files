@@ -1,0 +1,45 @@
+Bootstrap 4 Table 
+
+Bootstrap 4 has the basic the table class.
+
+The .table class has to design  the table.
+The .table-striped class adds zebra-stripes to a tables.
+The .tables-borderd class adds boders on all sides of the table.
+The .table-hover class adds a hover effects on table rows.
+
+The .table-dark class adds a black or dark background on the table.
+
+The ,table-striped and .table-dark classes to create striped and dark table.
+
+The .table-dark and .table-hover classes to create dark hoverable table.
+
+The .table-borderless class removes borders from the table.
+
+Contextual Classes
+
+Contextual classes can be used to color the whole table (<table>),  the table rows (<tr>) or table cells (<td>).
+Class 			Description
+.table-primary 		Blue: Indicates an important action
+.table-success 		Green: Indicates a successful or positive action
+.table-danger 		Red: Indicates a dangerous or potentially negative action
+.table-info 			Light blue: Indicates a neutral informative change or action
+.table-warning 		Orange: Indicates a warning that might need attention
+.table-active 		Grey: Applies the hover color to the table row or table cell
+.table-secondary 		Grey: Indicates a slightly less important action
+.table-light 		Light grey table or table row background
+.table-dark 		Dark grey table or table row background
+
+Table Head Colors
+The .thead-dark class adds a black background to table headers, and the .thead-light class adds a grey background to table headers.
+
+Small Table
+The .table-sm creates the small table.
+
+Responsive Table
+The .table-responsive class makes the table responsive and the table will be scrollale.
+
+Besides this .table-responsive class there are several classes which makes the table responsive according to the device 
+.table-responsive-lg   class uses for larege device (<992px)
+.table-responsive-xl  classe uses for extra large device(<1200px)
+.table-responsive-md class uses for md device(<780px)
+.table-reszponsive-sm class uses for small device(<568px)
